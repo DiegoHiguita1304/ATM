@@ -14,11 +14,11 @@ depositar dinero e iniciar sesión con sus credenciales.
 ## Clonación (Repositorio github)
 
 1. En la pagina de GitHub ingresar al repositorio ATM. 
-2. En la parte de <>Code le das en HTTPS, copias el link https://github.com/DiegoHiguita1304/ATM-java.git.
+2. En la parte de <>Code le das en HTTPS, copias el link https://github.com/diegoHiguita1304/ATM-java.git.
 3. En la carpera que desees clonar el repositorio le das click derecho y seleccionas Open Git Bash here.
 4. en la consola los comandos a ejecutar son los siguientes:
 *  git init
-*  git clone https://github.com/DiegoHiguita1304/ATM-java.git.
+*  git clone https://github.com/diegoHiguita1304/ATM-java.git.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, puedes hacerlo a través de pull requests. Asegúrate de seguir las pautas de contribución.
