@@ -24,4 +24,4 @@ depositar dinero e iniciar sesión con sus credenciales.
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, puedes hacerlo a través de pull requests. Asegúrate de seguir las pautas de contribución.
 
 Autor
-Nombre: [Diego Higuita]
+Nombre: Diego Higuita
